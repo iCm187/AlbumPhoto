@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Album Photo</string>
+    <string name="recherche">Recherche</string>
+    <string name="rechercher_vos_images">Rechercher vos images</string>
+</resources>
